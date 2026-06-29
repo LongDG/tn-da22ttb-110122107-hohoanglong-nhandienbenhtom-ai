@@ -1,4 +1,4 @@
-# 🦐 ShrimpCheck — Hệ Thống Nhận Diện Bệnh Trên Tôm & Bán Thuốc Thủy Sản
+# 🦐 Nhận diện bệnh trên tôm bằng trí tuệ nhân tạo kết hợp hệ thống thương mại điện tử thuốc thủy sản
 
 > **Đồ án tốt nghiệp** — Ngành Công nghệ Thông tin  
 > **Sinh viên:** Hồ Hoàng Long  
