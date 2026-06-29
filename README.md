@@ -1,8 +1,7 @@
-# 🦐 Nhận diện bệnh trên tôm bằng trí tuệ nhân tạo kết hợp hệ thống thương mại điện tử thuốc thủy sản
+# 🦐 XÂY DỰNG WEBSITE <b> BÁN THUỐC THỦY SẢN <b> TÍCH HỢP HỆ THỐNG NHẬN DIỆN BỆNH TRÊN TÔM
 > **Đồ án tốt nghiệp** — Ngành Công nghệ Thông tin  
 > **Sinh viên:** Hồ Hoàng Long  
-> **Đề tài:** Nhận diện bệnh trên tôm bằng trí tuệ nhân tạo kết hợp hệ thống thương mại điện tử thuốc thủy sản
-
+> **Đề tài:** XÂY DỰNG WEBSITE BÁN THUỐC THỦY SẢN TÍCH HỢP HỆ THỐNG NHẬN DIỆN BỆNH TRÊN TÔM
 ---
 
 ## 📋 Mục Lục
