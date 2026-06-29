@@ -1,4 +1,4 @@
-# 🦐 XÂY DỰNG WEBSITE <b> BÁN THUỐC THỦY SẢN <b> TÍCH HỢP HỆ THỐNG NHẬN DIỆN BỆNH TRÊN TÔM
+# 🦐 WEBSITE BÁN THUỐC THỦY SẢN TÍCH HỢP HỆ THỐNG NHẬN DIỆN BỆNH TRÊN TÔM
 > **Đồ án tốt nghiệp** — Ngành Công nghệ Thông tin  
 > **Sinh viên:** Hồ Hoàng Long  
 > **Đề tài:** XÂY DỰNG WEBSITE BÁN THUỐC THỦY SẢN TÍCH HỢP HỆ THỐNG NHẬN DIỆN BỆNH TRÊN TÔM
